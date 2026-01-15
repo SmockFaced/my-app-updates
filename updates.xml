@@ -3,6 +3,7 @@
   <version>1.0.1</version>
   <url>https://yourserver.com/yourapp.exe</url>
   <changelog>https://yourserver.com/changelog.txt</changelog>
-  <mandatory>false</mandatory>
+  <mandatory>true</mandatory>
 </item>
+
 
