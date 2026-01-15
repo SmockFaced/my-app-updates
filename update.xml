@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>2.0.0</version>
+  <version>1.0.1</version>
   <url>https://mega.nz/file/2vhE2TzK#57GJBOguejfXWtLfM5PH6RPIzoD_P4twV9sYEUg1bL4</url>
   <changelog>https://yourserver.com/changelog.txt</changelog>
   <mandatory>true</mandatory>
 </item>
+
 
 
 
