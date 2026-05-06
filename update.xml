@@ -4,6 +4,7 @@
   <url>https://yourserver.com/download</url>
   <changelog>https://yourserver.com/changelog.txt</changelog>
   <mandatory>true</mandatory>
+  <message>Your custom update message here!</message>
 </item>
 
 
